@@ -1,0 +1,6 @@
+.gradle/
+build/
+config-server/.gradle/
+config-server/build/
+.idea/
+*.iml
